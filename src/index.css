@@ -72,6 +72,14 @@ body {
   }
   .containerAll{
     width: 80%;
+    padding: 20px 0px;
+  }
+  .all{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .main{
+    margin: 20px 0px;
   }
 }
 
